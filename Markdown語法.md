@@ -47,10 +47,10 @@ _single underscores_
 
 __double underscores__
 ```
-<em>:
+em:
 _single underscores_
 
-<strong>:
+strong:
 __double underscores__
  
 # 程式碼
