@@ -1,25 +1,27 @@
 ### 文章參考自https://blog.csdn.net/ZM_Yang/article/details/105617607
-# 搭建过程
-## 首先，你要有一个Github账号，如果没有https://github.com/ 注册一个。
+# 搭建過程
+## 首先，你要有一個Github帳號，如果沒有https://github.com/ 註冊。
 
-## 第二步，登陆并创建一个私有仓库：
-i. 点击页面右上方+号选择New epository：
+## 第二步，登陸並創建一個私有倉庫：
+### i. 點擊頁面右上方+號選擇New repository：
 
-ii. 填写仓库的信息，如名字、简介等。如果你是电脑上已经有了笔记想迁移到Github，注意别勾选Initialize this repo with README。最关键的是勾选Private选项，这样创建的就是个私有仓库，否则你的笔记就是所有人都能查看了：
-
-
-显示侧边栏：下载安装Chrome插件Octotree。如果无法访问Google extension store的可以到我Github仓库取（见文末链接）。如果是私有仓库需要配置下，添加github token，安装完成后页面就变成了这样：
+### ii. 填寫倉庫的信息，如名字、簡介等。如果你是電腦上已經有了筆記想遷移到Github，注意別勾選Initialize this repo with README。最關鍵的是勾選Private選項，這樣創建的就是個私有倉庫，否則你的筆記就是所有人都能查看了：
 
 
-这样，一个笔记本仓库就创建完成了。
+顯示側邊欄(非必要)：下載安裝Chrome插件Octotree。如果無法訪問Google extension store的可以到我Github倉庫取（見文末鏈接）。如果是私有倉庫需要配置下，添加github token，安裝完成後頁面就變成了這樣：
 
-# 做笔记
-进入仓库，点击仓库又上方的Create new file按钮：
-
-
-输入笔记的名字。斜杠/之前的名字会被当作目录。例如输入ImgOfDeme/demo.md，ImgOfDeme会被当作目录，demo.md才是文件的名字。注意只又后缀是.md结尾的文件点击预览的时候才能被格式化，否则就是一个普通的文本：
+這樣，一個筆記本倉庫就創建完成了。
 
 
+# 做筆記
+進入倉庫，點擊倉庫又上方的Create new file按鈕：
 
 
-填写好名字，就可以开始编辑了：
+輸入筆記的名字。斜杠/之前的名字會被當作目錄。例如輸入ImgOfDeme/demo.md，ImgOfDeme會被當作目錄，demo.md才是文件的名字。注意只又後綴是.md結尾的文件點擊預覽的時候才能被格式化，否則就是一個普通的文本：
+
+
+填寫好名字，就可以開始編輯了：
+
+
+到最下面可以Commit。
+之後再寫關於Markdown語法跟使用Github當圖床的筆記吧。
