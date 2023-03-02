@@ -36,3 +36,15 @@ This is [an example](http://example.com/ "Title") inline link.
 
 [This link](http://example.net/) has no title attribute.
 ```
+# 強調
+Markdown使用星號（*）和底線（_）作為標記強調字詞的符號，被*或_包圍的字詞會被轉成用<em>標籤包圍，用兩個*或_包起來的話，則會被轉成<strong>，例如：
+```
+  *single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
+```
+__double underscores__
