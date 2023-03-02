@@ -37,9 +37,9 @@ This is [an example](http://example.com/ "Title") inline link.
 [This link](http://example.net/) has no title attribute.
 ```
 # 強調
-Markdown使用星號（*）和底線（_）作為標記強調字詞的符號，被*或_包圍的字詞會被轉成用<em>標籤包圍，用兩個*或_包起來的話，則會被轉成<strong>，例如：
+Markdown使用星號和底線作為標記強調字詞的符號，被或包圍的字詞會被轉成用<em>標籤包圍，用兩個*或_包起來的話，則會被轉成<strong>，例如：
 ```
-  *single asterisks*
+*single asterisks*
 
 _single underscores_
 
@@ -47,4 +47,23 @@ _single underscores_
 
 __double underscores__
 ```
+<em>:
+_single underscores_
+
+<strong>:
 __double underscores__
+ 
+# 程式碼
+如果要標記一小段行內程式碼，你可以用反引號把它包起來（`），例如：
+Use the `printf()` function.
+也可以連續用三個反引用來一整段程式碼
+
+#圖片
+一個驚嘆號!
+接著一個方括號，裡面放上圖片的替代文字
+接著一個普通括號，裡面放上圖片的網址，最後還可以用引號包住並加上 選擇性的’title’文字。
+```
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg "Optional title")
+```
