@@ -77,4 +77,5 @@ Use the `printf()` function.
 　　　　&ensp;     或    &#8194;   或      &#x2002;
 
 插入四個空格 (em space)
-　　　　&emsp;    或    &#8195;   或      &#x2003;```
+　　　　&emsp;    或    &#8195;   或      &#x2003;
+```
