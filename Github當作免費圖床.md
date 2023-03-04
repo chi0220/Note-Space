@@ -22,7 +22,8 @@ PicGo 的安裝就不說了，去他的 官網 下載對應版本進行安裝即
 token 生成，注意它只會顯示一次，所以你最好把它複製下來到你的備忘錄存好，方便下次使用，否則下次有需要重新新建  
 
 接著設定 PicGo，依次打開 PicGo設定 -> 改語言為繁體中文  
-圖床設定 -> Github
+圖床設定 -> Github  
+
 ![github setting](https://raw.githubusercontent.com/chi0220/Image-Space/main/20230304121513.png)  
 按照圖片填寫後按確定並設定為默認即可  
 
