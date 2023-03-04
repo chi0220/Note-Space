@@ -58,7 +58,7 @@ __double underscores__
 Use the `printf()` function.
 也可以連續用三個反引用來一整段程式碼
 
-#圖片
+# 圖片
 一個驚嘆號!
 接著一個方括號，裡面放上圖片的替代文字
 接著一個普通括號，裡面放上圖片的網址，最後還可以用引號包住並加上 選擇性的’title’文字。
@@ -67,3 +67,13 @@ Use the `printf()` function.
 
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
+# 空格
+```
+ 插入一個空格 (non-breaking space)
+　　　　&nbsp;    或    &#160;     或      &#xA0;
+
+插入兩個空格 (en space)
+　　　　&ensp;     或    &#8194;   或      &#x2002;
+
+插入四個空格 (em space)
+　　　　&emsp;    或    &#8195;   或      &#x2003;```
