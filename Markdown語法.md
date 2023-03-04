@@ -69,7 +69,7 @@ Use the `printf()` function.
 ```
 # 空格
 ```
- 插入一個空格 (non-breaking space)
+插入一個空格 (non-breaking space)
 　　　　&nbsp;    或    &#160;     或      &#xA0;
 
 插入兩個空格 (en space)
